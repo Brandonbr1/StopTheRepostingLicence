@@ -21,6 +21,8 @@ binary = the .jar file that comes out when the mod is released.
 author = The person that owns all the rights towards the mod.
 //publish = make the mod public.
 examine = looking at the source code but never releasing it.
+banned = prohibited from doing something
+Contributing = helping the mod by writing code for the mod but he is not an author
   
 
 1.Commercial uses
