@@ -4,6 +4,25 @@ Copyright (c) 2022 Copyright Holder
 
 This Licence follows the following conditions:
 
+Note:This has not been checked by a lawyer
+
+0.5 Definitions:
+
+// = not yet applied
+website = a bunch of websites pages typically built with code or a website builder to display content,it often or not has a domain name sometimes a subdomain name that is register to a domain name service .
+source code = The code of the Minecraft mod.
+Mod = Modifing the game to add new content.
+decompile = using a decompiler tool to get the source code of the mod when it is in a binary(.jar).
+modpack = a list of mods that can be easily downloaded into a zip file.
+Assets = The art of the Minecraft Mod.
+Minecraft = The game.
+compiling = using the mods source code and making a final jar from there and releasing it.
+binary = the .jar file that comes out when the mod is released.
+author = The person that owns all the rights towards the mod.
+//publish = make the mod public.
+examine = looking at the source code but never releasing it.
+  
+
 1.Commercial uses
   a.Attribution is required to be given somewhere  make sure it is visible for the users to see.
   b.The Mod must have a licence text copy somewhere and cannot be changed
