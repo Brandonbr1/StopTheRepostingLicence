@@ -22,10 +22,12 @@ Minecraft = The game.
 compiling = using the mods source code and making a final jar from there and releasing it.
 binary = the .jar file that comes out when the mod is released.
 author = The person that owns all the rights towards the mod.
-//publish = make the mod public.
+publish = make the mod available to the public to see  .
 examine = looking at the source code but never releasing it.
-banned = prohibited from doing something
-Contributing = helping the mod by writing code for the mod but he is not an author
+banned = prohibited from doing something.
+Contributing = helping the mod by writing code for the mod but he is not an author.
+ads services = what is shown to the user for other companies to show their products. 
+paid url shortener = A  url shortener that when shortened, shortens the link and also gives ther person using it money.
   
 
 1.Commercial uses
@@ -40,7 +42,7 @@ Contributing = helping the mod by writing code for the mod but he is not an auth
   b.You may use the mod in a Modpack but there must be at least 10 mods in the modpack to be allowed and the modpack may only be on CurseForge
   c.if you are on the list at https://api.stopmodreposts.org/sites.txt you do not get premission to make modpacks
     c-3.5 credits:This list was Provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
-  d. the person does not make any money of the mods page so that means no adf.ly links or any of those kind of links you use ads services if the source code is used.
+  d. the person does not make any money of the mods page so that means no adf.ly links or any of those paid url shortener you use ads services if the source code is used.
   
 4.Modification
   a.You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to sate what changes you made.
