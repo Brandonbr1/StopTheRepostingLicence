@@ -10,22 +10,22 @@ TO Authors Note: you can modify the licence text to fit you better
 
 0.5 Definitions:
 
-website = a bunch of websites pages typically built with code or a website builder to display content,it often or not has a domain name sometimes a subdomain name that is register to a domain name service .
+Website = a bunch of websites pages typically built with code or a website builder to display content; it often or not has a domain name sometimes a subdomain name, that is registered to a domain name service.
 source code = The code of the Minecraft mod.
 Mod = Modifing the game to add new content.
-decompile = using a decompiler tool to get the source code of the mod when it is in a binary(.jar).
-modpack = a list of mods that can be easily downloaded into a zip file.
+Decompile = using a decompiler tool to get the source code of the mod when it is in a binary(.jar).
+Modpack = a list of mods that can be easily downloaded into a zip file.
 Assets = The art of the Minecraft Mod.
 Minecraft = The game.
 compiling = using the mods source code and making a final jar from there and releasing it.
 binary = the .jar file that comes out when the mod is released.
 author = The person that owns all the rights towards the mod.
-publish = make the mod available to the public to see  .
+publish = make the mod available to the public to see .
 examine = looking at the source code but never releasing it.
 banned = prohibited from doing something.
 Contributing = helping the mod by writing code for the mod but he is not an author.
-ads services = what is shown to the user for other companies to show their products. 
-paid url shortener = A  url shortener that when shortened, shortens the link and also gives ther person using it money.
+ads services = what is shown to the user for other companies to show their products.
+paid url shortener = A url shortener that when shortened, shortens the link and also gives the person using it money.
   
 
 1.Commercial uses
