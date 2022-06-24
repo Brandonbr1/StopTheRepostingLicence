@@ -43,35 +43,33 @@ paid url shortener = A url shortener that when shortened, shortens the link and 
  e. the author can takedown the mods with these modpacks
   
 4.Modification
-  a.You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to sate what changes you made.
-  b.you must credit the author for using the source code
-  c.You may take code snippets from the mods and credit is not required byut appreciated
-  c. the "more than 60% of the source code" quota you must not try and do some loopholes which include:
-    d.renaming the file names and code name in the file but the other source code is the same that does not count
-    e.make a modpack containing less than 15 mods
-    
-  d.Decompiling
-    e.You are not allowed to decompile the source code unless you get premission from the author
-    f.You may examine the sorce code but never publish it to the public
-  
+ a. You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made.
+ b.you must credit the author for using the source code
+ c. You may take code snippets from the mods and credit is not required but appreciated
+ c. the "more than 60% of the source code" quota, you must not try and do some loopholes which include:
+   d. renaming the file names and code names in the file, but the other source code is the same that does not count
+   e. make a modpack containing less than 15 mods
+   
+ d.Decompiling
+   e. You are not allowed to decompile the source code unless you get permission from the author
+   f. You may examine the source code but never publish it to the public
+ 
 5.Assets
-  a.All assets Provied are Under All Rights Reserved.
-  
-  
+ a. All assets Provided are Under All Rights Reserved.
+ 
+ 
 6. banned users
-    a.if you are on the list at https://api.stopmodreposts.org/sites.txt you are simpily banned from my community
-    b-3.5 credits:This list was Provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
-    
+   a. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from my community
+   b-3.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
+   
   
 7.addons
-  a.You may not make an addon for the mod
-  
-  
-8.Contributing
-  a.You may contribute to the mod
-  b.by submitting a pull request you give the mod author rights to use the code for the mod.
-  c.if you are on the list at https://api.stopmodreposts.org/sites.txt you are simpily banned from contributing/compiling the mod.
+a. You may not make an add-on for the mod
 
+8.Contributing
+a. You may contribute to the mod
+b.by submitting a pull request, you give the mod author rights to use the code for the mod.
+c. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from contributing/compiling the mod.
   
 9. LIABILITY:
 
