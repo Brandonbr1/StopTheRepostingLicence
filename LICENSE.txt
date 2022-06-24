@@ -11,37 +11,36 @@ TO Authors Note: you can modify the licence text to fit you better
 0.5 Definitions:
 
 Website = a bunch of websites pages typically built with code or a website builder to display content; it often or not has a domain name sometimes a subdomain name, that is registered to a domain name service.
-source code = The code of the Minecraft mod.
+Source code = The code of the Minecraft mod.
 Mod = Modifing the game to add new content.
 Decompile = using a decompiler tool to get the source code of the mod when it is in a binary(.jar).
 Modpack = a list of mods that can be easily downloaded into a zip file.
 Assets = The art of the Minecraft Mod.
 Minecraft = The game.
-compiling = using the mods source code and making a final jar from there and releasing it.
-binary = the .jar file that comes out when the mod is released.
-author = The person that owns all the rights towards the mod.
-publish = make the mod available to the public to see .
-examine = looking at the source code but never releasing it.
-banned = prohibited from doing something.
+Compiling = using the mods source code and making a final jar from there and releasing it.
+Binary = the .jar file that comes out when the mod is released.
+Author = The person that owns all the rights towards the mod.
+Publish = make the mod available to the public to see .
+Examine = looking at the source code but never releasing it.
+Banned = prohibited from doing something.
 Contributing = helping the mod by writing code for the mod but he is not an author.
 ads services = what is shown to the user for other companies to show their products.
 paid url shortener = A url shortener that when shortened, shortens the link and also gives the person using it money.
   
 
 1.Commercial uses
-  a.Attribution is required to be given somewhere make sure it is visible for the users to see.
-  b.The Mod must have a licence text copy somewhere and cannot be changed.
-  
+ a. Attribution is required to be given somewhere; make sure it is visible for the users to see.
+ b. The Mod must have a license text copy somewhere and cannot be changed.
+ 
 2.Personal Uses
-  a.if you want to use the code of the mod you can use 100% of the source code if you do not publish it to the public
-  
+ a. if you want to use the code of the mod, you can use 100% of the source code if you do not publish it to the public
+ 
 3.Distribution
-  a.the original mod must not be on any other website besides it offical pages unless number 4 is followed.
-  b.You may use the mod in a Modpack but there must be at least 10 mods in the modpack to be allowed and the modpack may only be on CurseForge.com
-  c.if you are on the list at https://api.stopmodreposts.org/sites.txt you do not get premission to make modpacks
-    c-3.5 credits:This list was Provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
-  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
-  e.the author can takedown the mods with these modpacks
+ a. the original mod must not be on any other website besides its official pages unless number 4 is followed.
+ b.You may use the mod in a Modpack but there must be at least 10 mods in the modpack to be allowed and the modpack may only be on CurseForge.com  c. If you are on the list at https://api.stopmodreposts.org/sites.txt you do not get permission to make modpacks
+   c-3.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
+ d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
+ e. the author can takedown the mods with these modpacks
   
 4.Modification
   a.You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to sate what changes you made.
