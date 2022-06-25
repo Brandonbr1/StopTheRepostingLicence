@@ -2,6 +2,8 @@
 
 Hello this is the StopTheRepostingLicence it adds a band aid solution but it is guled on using supergule...  anyways this tries to this Minecraft Reposting problem in the Minecraft modding community
 
+if you would like to know more visit https://stopmodreposts.org/ and support them <br>
+or [a blog i made about repost sites](https://brandonmohammed666blogs.wordpress.com/2022/02/03/the-issue-with-repost-sites-like-9minecraft/)
 
 
 this will not be a replacement to:
