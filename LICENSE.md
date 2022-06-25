@@ -41,7 +41,7 @@ paid url shortener = A url shortener that when shortened, shortens the link and 
  b.You may use the mod in a Modpack but there must be at least 10 mods in the modpack to be allowed and the modpack may only be on CurseForge.com  c. If you are on the list at https://api.stopmodreposts.org/sites.txt you do not get permission to make modpacks<br>
    c-3.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text<br>
  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.<br>
- e. the author can takedown the mods with these modpacks<br>
+ e. The author can takedown the mods with these modpacks or takedown a mod with no reason provided<br>
   <br>
 4.Modification<br>
  a. You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made.<br>
