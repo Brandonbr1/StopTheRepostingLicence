@@ -65,7 +65,9 @@ paid url shortener = A url shortener that when shortened, shortens the link and 
    
   <br>
 7.addons<br>
-a. You may not make an add-on for the mod<br>
+a. You may make an add-on for the mod under the following conditions:<br>
+  b. You may use the add-on as inspiration from the mod but it must not be too close to the original mod.<br>
+  c. The author has rights to take down any addon he sees from any website.<br>
 <br>
 8.Contributing<br>
 a. You may contribute to the mod.<br>
@@ -74,10 +76,11 @@ c. if you are on the list at https://api.stopmodreposts.org/sites.txt you are si
   <br>
 9. LIABILITY:<br>
 <br>
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH<br>
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY<br>
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,<br>
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM<br>
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR<br>
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR<br>
+PERFORMANCE OF THIS SOFTWARE.<br>
