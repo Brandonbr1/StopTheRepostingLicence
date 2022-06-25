@@ -16,3 +16,9 @@ etc.
 
 all of the Licence text is under:
 https://creativecommons.org/publicdomain/zero/1.0/
+
+
+
+Note:This has not been checked by a lawyer yet so keep that in mind
+
+TO Authors Note: you can modify the licence text to fit you better
