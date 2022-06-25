@@ -5,9 +5,6 @@ Copyright (c) 2022 Copyright Holder
 
 This Licence follows the following conditions:
 
-Note:This has not been checked by a lawyer
-
-TO Authors Note: you can modify the licence text to fit you better
 
 0.5 Definitions:
 
@@ -26,7 +23,7 @@ Examine = looking at the source code but never releasing it.
 Banned = prohibited from doing something.
 Contributing = helping the mod by writing code for the mod but he is not an author.
 ads services = what is shown to the user for other companies to show their products.
-paid url shortener = A url shortener that when shortened, shortens the link and also gives the person using it money.
+paid url shortener = A url shortener that when the put into the url shortener, shortens the link and also gives the person using it money.
   
 
 1.Commercial uses
