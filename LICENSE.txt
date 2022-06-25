@@ -39,6 +39,8 @@ paid url shortener = A url shortener that when the put into the url shortener, s
    c-3.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
  e. The author can takedown the mods with these modpacks or takedown a mod with no reason provided
+ f. you may not use this mod as a libary.
+ g.you must not make your mod depend on your mod that you are making.
   
 4.Modification
  a. You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made.
