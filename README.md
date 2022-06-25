@@ -1,12 +1,12 @@
 # StopTheRepostingLicence
 
-Hello this is the StopTheRepostingLicence it adds a band aid solution but it is guled on using supergule...  anyways this tries to this Minecraft Reposting problem in the Minecraft modding community
-
+Hello this is the StopTheRepostingLicence it adds a band aid solution to  the Minecraft Reposting problem in the Minecraft modding community.<br>
+<br>
 if you would like to know more visit https://stopmodreposts.org/ and support them <br>
-or [a blog i made about repost sites](https://brandonmohammed666blogs.wordpress.com/2022/02/03/the-issue-with-repost-sites-like-9minecraft/)
+or [ visit a blog i made about repost sites](https://brandonmohammed666blogs.wordpress.com/2022/02/03/the-issue-with-repost-sites-like-9minecraft/)
 
 
-this will not be a replacement to:
+this will not/is not intended to be a replacement to:
 MMPLv2
 MIT
 BDS
@@ -16,8 +16,8 @@ etc.
  this is a heavy wip rn 
 
 
-all of the Licence text is under:
-https://creativecommons.org/publicdomain/zero/1.0/
+all of the Licence text is under:<br>
+[unlicense](https://unlicense.org/)
 
 
 
