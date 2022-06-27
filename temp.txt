@@ -1,0 +1,11 @@
+ Legal terms:
+ you may use it for Commercial uses,contribute,add modpacks to the mod a copy of the license text copy must be kept somewhere you may use 100% of the source code if  it is not published anywhere if  modpacks are added then it may only be on the site cursefogred.com there is a cretirea of modpacks that minimun that have to be put // in the modpack and that is 10 premission from making modpack is banned if you are on the list at https://api.stopmodreposts.org/sites.txt the may be be taken down from any website with no reason the source code of the mod may be used as long as it does not exceed 60% of the original soource code but you can take code snippets with no credit needed you may decompile the mod but the source code must not be published you may eximane it all assets of the mod are under arr you are banned from community if you are at https://api.stopmodreposts.org/sites.txt addons for the mod may be made as long as You may use the add-on as inspiration from the mod but it must not be too close to the original mod the authoe has rights to takedown any addon he sees.
+
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
