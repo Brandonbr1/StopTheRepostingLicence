@@ -23,6 +23,7 @@ This Licence follows the following conditions:
 "Contributing" = helping the mod by writing code for the mod but he is not an author.
 "ads services" = what is shown to the user for other companies to show their products.
 "paid url shortener" = means A url shortener that when the put into the url shortener, shortens the link and also gives the person using it money.
+
 "LIABILITY" = What the author of the mod can be held accountable for.
 
 1.Commercial uses
