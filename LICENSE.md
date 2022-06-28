@@ -11,22 +11,22 @@ TO Authors Note: you can modify the licence text to fit you better<br>
 
 0.5 Definitions:<br>
 <br>
-Website = a bunch of websites pages typically built with code or a website builder to display content; it often or not has a domain name sometimes a subdomain name, that is registered to a domain name service.<br>
-Source code = The code of the Minecraft mod.<br>
-Mod = Modifing the game to add new content.<br>
-Decompile = using a decompiler tool to get the source code of the mod when it is in a binary(.jar).<br>
-Modpack = a list of mods that can be easily downloaded into a zip file.<br>
-Assets = The art of the Minecraft Mod.<br>
-Minecraft = The game.<br>
-Compiling = using the mods source code and making a final jar from there and releasing it.<br>
-Binary = the .jar file that comes out when the mod is released.<br>
-Author = The person that owns all the rights towards the mod.<br>
-Publish = make the mod available to the public to see .<br>
-Examine = looking at the source code but never releasing it.<br>
-Banned = prohibited from doing something.<br>
-Contributing = helping the mod by writing code for the mod but he is not an author.<br>
-ads services = what is shown to the user for other companies to show their products.<br>
-paid url shortener = A url shortener that when shortened, shortens the link and also gives the person using it money.<br>
+- Website = a bunch of websites pages typically built with code or a website builder to display content; it often or not has a domain name sometimes a subdomain name, that is registered to a domain name service.<br>
+- Source code = The code of the Minecraft mod.<br>
+- Mod = Modifing the game to add new content.<br>
+- Decompile = using a decompiler tool to get the source code of the mod when it is in a binary(.jar).<br>
+- Modpack = a list of mods that can be easily downloaded into a zip file.<br>
+- Assets = The art of the Minecraft Mod.<br>
+- Minecraft = The game.<br>
+- Compiling = using the mods source code and making a final jar from there and releasing it.<br>
+- Binary = the .jar file that comes out when the mod is released.<br>
+- Author = The person that owns all the rights towards the mod.<br>
+- Publish = make the mod available to the public to see .<br>
+- Examine = looking at the source code but never releasing it.<br>
+- Banned = prohibited from doing something.<br>
+- Contributing = helping the mod by writing code for the mod but he is not an author.<br>
+- ads services = what is shown to the user for other companies to show their products.<br>
+- paid url shortener = A url shortener that when shortened, shortens the link and also gives the person using it money.<br>
   
 <br>
 1.Commercial uses<br>
