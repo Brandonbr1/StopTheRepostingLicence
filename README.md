@@ -14,7 +14,7 @@ BDS<br>
 GPL<br>
 etc.<br>
 
-this is a heavy wip rn 
+this is a wip rn currently I am trying to make it less of a crayon license and make things more Fair 
 
 
 all of the Licence text is under:<br>
