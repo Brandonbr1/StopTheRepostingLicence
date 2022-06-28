@@ -24,7 +24,6 @@ This Licence follows the following conditions:
 "ads services" = what is shown to the user for other companies to show their products.
 "paid url shortener" = means A url shortener that when the put into the url shortener, shortens the link and also gives the person using it money.
 "Copyright" = A law that gives the owner rights to the mod 
-
 "LIABILITY" = What the author of the mod can be held accountable for.
 
 1.Commercial uses
@@ -44,7 +43,7 @@ This Licence follows the following conditions:
  e. The author can takedown the mods with these modpacks or takedown a mod with no reason provided
  f. you may not use this mod as a libary.
  g.you must not make your mod depend on your mod that you are making.
-  h. You must not Make a modpack containing less than 15 mods
+ h. You must not Make a modpack containing less than 15 mods
   
 4.Modification
  a. You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made.
@@ -54,8 +53,8 @@ This Licence follows the following conditions:
    e. Renaming the file names and code names in the file, but the other source code is the same that does not count
    
  d.Decompiling
-   e. You are not allowed to decompile the source code unless you get permission from the author
-   f. You may examine the source code but never publish it to the public
+   e. You are not allowed to decompile the source code unless you get permission from the author.
+   f. You may examine the source code but never publish it to the public.
  
 5.Assets
  a. All assets Provided are Under All Rights Reserved.
