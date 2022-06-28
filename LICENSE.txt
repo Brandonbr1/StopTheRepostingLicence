@@ -14,13 +14,12 @@ Website = a bunch of websites pages typically built with code or a website build
 Source code = The code of the computer program make with computer instructions and as it's most bare bone form it has only 1 and 0.
 Mod = Modifing the game to add new content by modifing the game in a way so it adds things into the game some  in the game to the game typically done with forge or fabric can be indepedently or by a team.
 Decompile = using a decompiler tool to get the source code .jar file which you can not get with any normal means.
-
-= A list of mods consisting of more that one mod used so you can download all of the mods easily and quickly.
+Modpack = A list of mods consisting of more that one mod used so you can download all of the mods easily and quickly.
 Assets = The art,sound and models of the Mod.
 Minecraft = A 3 game consisting of cubes.
 Compiling = using the source code and then making the file into .jar where it can be read by anyone with the JRE.
 Binary = the .jar file that comes out when the mod is released.
-Author = The person that owns all the rights towards the mod.
+Author = The person who made all/almost all of the mod and they have full rights towards the mod.
 Publish = make the mod available to the public to see .
 Examine = looking at the source code but never releasing it.
 Banned = prohibited from doing something.
