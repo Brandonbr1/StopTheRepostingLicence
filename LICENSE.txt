@@ -37,6 +37,7 @@ Definitions are here so you don't use other ones or one that doesn't exist in th
 "Add-on" = something that uses the base mod and adds on top of it by creating another mod that intrageates with the mod.
 "mods name" = The name of the Minecraft mod.
 "Snippet" = A small section of code.
+"Modding API" = A Minecraft API that helps make Minecraft modding easy and is uses in almost any mod like forge,fabric,quilt etc.
 
 Section 1.Commercial uses terms:
  a. When posting a YouTube video or sites like YouTube you must give Attribution to the author and by linking to original is required to be given somewhere and it has to be clearly visible for the users to see.
@@ -57,7 +58,8 @@ Section 3.Distribution terms:
  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
  f. you may use this mod as a libary/dependence but the mod has to be downloaded separately and not be in the actually mod download.
  g. Your mod must not have the same name as the original it is under a  wordmark and is also trademarked.
- h. If you would like to port the mod to another mod loader like fabric or quilt etc You are required to contact the mod author for the port and you must not redistribute the port and put it on your own download/Curseforge Page you must submit the version to the author and then he will put it up And the same is True for ports to newer versions and if you are on the list at:https://api.stopmodreposts.org/sites.txt .
+ h. If you would like to port the mod to another mod loader like fabric or quilt etc You are required to contact the mod author for the port and you must not redistribute the port and put it on your own download/Curseforge Page you must submit the version to the author and then he will put it up on his page and if you are on the list at:https://api.stopmodreposts.org/sites.txt .
+ I. If a Mod author disappears for 4 years and he has not made a commit or show any sign of it not being updated then you may begin to port it to a new version of that same Modding API you may not change it.
 
  
   
