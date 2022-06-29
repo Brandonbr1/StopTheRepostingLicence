@@ -28,32 +28,32 @@ This Licence follows the following conditions:
 "Attribution" = giving credit to the author.
 "Clearly visible" = It is visible to the user and not put in some inconvenient spot where almost no average person will find it like in the main file that people are reading or typical the first things the the user will see.
 "User" = You a person who is veiwing the mod
-"Staff Coder" = someone who works for the mod official and codes for the mod
+"Staff Coder" = someone who works for the mod official and codes for the mod.
 "Coder" = someone from the outside coding the mod who do not work for the mod officially.
-"Library/dependence" = An external mod that is needed for the mod to work or make things run better in the mod
+"Library/dependence" = An external mod that is needed for the mod to work or make things run better in the mod.
 
-1.Commercial uses terms:
- a. Attribution is required to be given somewhere; make sure it is visible for the users to see.
+Section 1.Commercial uses terms:
+ a. When posting a YouTube video or sites like YouTube you must give Attribution to the author and by linking to original is required to be given somewhere and it has to be clearly visible for the users to see.
  b. You must not use the mod for any commerical purposes.
- c. There must be a copy of the license somewhere and it must be mentioned clearly for the user to try and see.
- d.do not use the mod's name in your article anywhere if you are at:https://api.stopmodreposts.org/sites.txt.
- e. You must not content farms or use any sort or ad farms.
+ c. There must be a copy of This license text somewhere and it must be clearly visible for the user see.
+ d. do not use the mod's name in your article anywhere if you are at:https://api.stopmodreposts.org/sites.txt.
+ e. You must not make any sort of content farms or ad farms when publishing a blog about it you may have 2 ads on the page before it is considered an ad farm.
  
-2.Personal Uses terms:
+Section 2.Personal Uses terms:
  a.The person/coder may use 100% of the source code that the mod provides but you may not publish the mod for people to download you may use it in something like a YouTube video.
- b. You may showcase the mod on your YouTube channel. 
+ b. You may showcase the mod on your YouTube channel following all the rules of Section 1. 
  
-3.Distribution terms:
- a. the original mod must not be on any other website besides its official pages unless number 4 is followed.
+Section 3.Distribution terms:
+ a. the original mod must not be on any other website besides it's official pages unless Section 4 is followed.
  b.You may use the mod in a Modpack but there must be at least 10 mods in the modpack to be allowed and the modpack may only be on CurseForge.com  
  c. If you are on the list at https://api.stopmodreposts.org/sites.txt you do not get permission to make modpacks
    c-3.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
  e. The author can takedown the mods with these modpacks or takedown a mod with no reason provided
  f. you may use this mod as a libary/dependence but the mod has to be downloaded separately.
- G. You must not Make a modpack containing less than 15 mods
+ G. A modpack developer must not have less than 15 mods within their modlist.
   
-4.Modification Terms:
+Section 4.Modification Terms:
  a. You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made.
  b. You must credit the author for using the source code
  c. You may take code snippets from the mods and credit is not required but appreciated
@@ -65,26 +65,26 @@ This Licence follows the following conditions:
    h. You may Decompile the mod but you must not publish the source code.
    i. The user may examine the source code but never publish it to the public or use it in her mod unless d is followed.
  
-5.Permission for Assets Terms:
+Section 5.Permission for Assets Terms:
  a. All assets of the mod for everyone are  Provided are Under copyright. All Rights Reserved to the author.
  
  
-6. Banned users
-   a. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from my community
-   b-3.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
+Section 6. Banned users
+   a. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from my community and doing anything 
+   b2.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
    
   
-7.addons Terms:
+Section 7.addons Terms:
 a. You may make an add-on for the mod under the following conditions:
   b. You may use the add-on as inspiration from the mod but it must not be too close to the original mod.
   c. The author has rights to take down any addon he sees from any website.
 
-8.Contributing Terms:
+Section 8.Contributing Terms:
 a. You may contribute to the mod
 b.by submitting a pull request, you give the mod author rights to use the code for the mod.
 c. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from contributing/compiling the mod.
   
-9. LIABILITY:
+Section 9. LIABILITY and warranty of the mod:
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
 REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
