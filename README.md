@@ -19,12 +19,12 @@ etc.<br>
 This is a wip rn currently I am trying to make it less of a crayon license and make things more Fair 
 
 
+It is recommended to use the .txt version instead of the .MD version because that is updated less often.
 all of the Licence text is under:<br>
 [unlicense](https://unlicense.org/)
 
 
-
-Note:This has not been checked by a lawyer yet so keep that .
+As of now this has not been checked by any lawyer to see if this is good for Cort but brandonbr1 will try to get one.
 
 Authors Note: you can modify the licence text to fit you better
 
