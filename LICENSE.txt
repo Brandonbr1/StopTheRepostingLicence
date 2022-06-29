@@ -60,7 +60,6 @@ Section 3.Distribution terms:
  f. you may use this mod as a libary/dependence but the mod has to be downloaded separately and not be in the actually mod download.
  g. Your mod must not have the same name as the original it is under a  wordmark and is also trademarked.
  h. If you would like to port the mod to another mod loader like fabric or quilt etc You are required to contact the mod author for the port and you must not redistribute the port and put it on your own download/Curseforge Page you must submit the version to the author and then he will put it up on his page and if you are on the list at:https://api.stopmodreposts.org/sites.txt.
- I. If a Mod author disappears for over 2 years and he has not made a commit or show any sign of it not being updated or any of her other socals that shows they are active says that she has not been online for 2 years then you may begin to port it to a new version of that same Modding API you may not change it and credit must be given.
 
  
   
