@@ -1,6 +1,6 @@
 # StopTheRepostingLicence
 
-Hello this is the StopTheRepostingLicence it adds a band aid solution to the Minecraft Reposting problem in the Minecraft modding community Just copy paste the LICENSE.txt file into whatever website you want to and bam I makes it very hard to report the mod.This Project was inspired by MMPLv2. and thanks to Stop mod reposts for providing the lists<br>
+Hello this is the StopTheRepostingLicence it adds a band aid solution to the Minecraft Reposting problem in the Minecraft modding community Just copy paste the LICENSE.txt file into whatever website you want to and bam I makes it very hard to report the mod.This Project was inspired by MMPLv2 and no this is not meant to be a continuation of the Original License if you want to use the original use the original because I will not continue that License. and thanks to Stop mod reposts for providing the lists<br>
 <br>
 if you would like to know more visit https://stopmodreposts.org/ and support them <br>
 or [ visit a blog i made about repost sites](https://brandonmohammed666blogs.wordpress.com/2022/02/03/the-issue-with-repost-sites-like-9minecraft/)
