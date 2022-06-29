@@ -17,7 +17,7 @@ Definitions are here so you don't use other ones or one that doesn't exist in th
 "Decompile" = using a decompiler tool to get the source code .jar file which you can not get with any normal means.
 "Modpack" = A list of mods consisting of more that one mod used so you can download all of the mods easily and quickly.
 "Assets" = The art,sound and models of the Mod.
-"Minecraft" = A 3D sandbox game consisting of cubes to build things out of and items that do many functions.
+"Minecraft" = A 3D sandbox game consisting of cubes to build things out of and items that do many functions, crafting to get set items and block and Combat to fight mobs or other players in the game via multiplayer.
 "Compiling" = using the source code and then making the file into .jar where it can be read by anyone with the JRE.
 "Binary" = the .jar file that comes out when the mod is released.
 "Author" = The person who made all/almost all of the mod and they have full rights towards the mod.
