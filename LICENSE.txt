@@ -1,7 +1,7 @@
-StopTheRepostingLicence
+StopTheRepostingLicence by Brandonbr1 
 Version 1.0.0
 
-Copyright (c) 2022 Copyright Holder
+Copyright (c) 2022 <Copyright Holder's Name>
 
 This StopTheRepostingLicence Licence follows the following terms and conditions:
 
@@ -36,6 +36,7 @@ Definitions are here so you don't use other ones or one that doesn't exist in th
 "Library/dependence" = An external mod that is needed for the mod to work or make things run better in the mod.
 "Add-on" = something that uses the base mod and adds on top of it by creating another mod that intrageates with the mod.
 "mods name" = The name of the Minecraft mod.
+"Snippet" = A small section of code.
 
 Section 1.Commercial uses terms:
  a. When posting a YouTube video or sites like YouTube you must give Attribution to the author and by linking to original is required to be given somewhere and it has to be clearly visible for the users to see.
@@ -58,7 +59,7 @@ Section 3.Distribution terms:
  g. Your mod must not have the same name as the original it is wordmarked and trademarked.
   
 Section 4.Modification Terms:
- a. You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made and the code requires that the author and Mod name are credited and linked it also must be clearly visible where you put the author or Mods name.
+ a. You may not use all the source code of the mod you may only use 60% of the source code and if you do use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made and the code requires that the author and Mod name are credited and linked it also must be clearly visible where you put the author or Mods name the only exception to this is taking code snippets which do not require any sort of credit.
  b. You may take code snippets from the mods and credit is not required but appreciated
  c. There must be a copy of the license somewhere and it must be "clearly visible" for the users to try and see.
  d. The "more than 60% of the source code" quota, you must not try and do some loopholes which include:
@@ -77,7 +78,7 @@ Section 6. Banned users
    b2.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
    
   
-Section 7.addons Terms:
+Section 7.Addons Terms:
 a. You may make an add-on for the mod under the following conditions:
   b. You may use the add-on as inspiration from the mod but it must not be too close to the original mod and if the author think s it is too close to the original mod then he has rights to take it down from any websites.
 
@@ -85,7 +86,7 @@ Section 8.Contributing Terms:
 a. You may contribute to the mod by doing Pull requests, documentation,submitting art to the mod or submitting ideas for the mod and by doing any fo those things list the author of the mod gets full rights to use them in other projects.
 b. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from contributing/compiling the mod.
   
-Section 9. "AS IS" LIABILITY and WARRANTIES of the mod:
+Section 9. "AS IS" LIABILITY and "AS IS" WARRANTIES of the mod:
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
 REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
