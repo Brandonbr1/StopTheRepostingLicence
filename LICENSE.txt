@@ -7,6 +7,9 @@ This StopTheRepostingLicence Licence follows the following terms and conditions:
 
 
 0.5 Definitions:
+
+Definitions are here so you don't use other ones or one that doesn't exist in the Wikipedia/Dicksonary 
+
 "Website" = A bunch of websites pages typically built with code or a website builder to display content; it often or not has a domain name sometimes a subdomain name, that is registered to a domain name service.
 "Source code" = The code of the computer program make with computer instructions and as it's most bare bone form it has only 1 and 0.
 "Mod" = Modifing the game to add new content by modifing the game in a way so it adds things into the game some  in the game to the game typically done with forge or fabric can be indepedently or by a team.
