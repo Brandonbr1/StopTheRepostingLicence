@@ -24,6 +24,7 @@ all of the Licence text is under:<br>
 
 
 
-Note:This has not been checked by a lawyer yet so keep that in mind.
+Note:This has not been checked by a lawyer yet so keep that .
 
 Authors Note: you can modify the licence text to fit you better
+
