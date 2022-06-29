@@ -52,7 +52,8 @@ Section 3.Distribution terms:
  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
  e. The author can takedown the mods with these modpacks or takedown a mod with no reason provided
  f. you may use this mod as a libary/dependence but the mod has to be downloaded separately.
- G. A modpack developer must not have less than 15 mods within their modlist.
+ g. A modpack developer must not have less than 15 mods within their modlist.
+ h. You must not use the same name as the original mod.
   
 Section 4.Modification Terms:
  a. You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made.
