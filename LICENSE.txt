@@ -10,6 +10,7 @@ This StopTheRepostingLicence Licence follows the following terms and conditions:
 
 Definitions are here so you don't use other ones or one that doesn't exist in the Wikipedia/Dictionary
 
+// = This is not applied 
 "Website" = A bunch of websites pages typically built with code or a website builder to display content; it often or not has a domain name sometimes a subdomain name, that is registered to a domain name service.
 "Source code" = The code of the computer program make with computer instructions and as it's most bare bone form it has only 1 and 0.
 "Mod" = Modifing the game to add new content by modifing the game in a way so it adds things into the game some  in the game to the game typically done with forge or fabric can be indepedently or by a team.
@@ -37,6 +38,7 @@ Definitions are here so you don't use other ones or one that doesn't exist in th
 "Add-on" = something that uses the base mod and adds on top of it by creating another mod that intrageates with the mod.
 "mods name" = The name of the Minecraft mod.
 "Snippet" = A small section of code.
+"Modding API" = A Minecraft API that helps make Minecraft modding easy and is uses in almost any mod like forge,fabric,quilt etc.
 
 Section 1.Commercial uses terms:
  a. When posting a YouTube video or sites like YouTube you must give Attribution to the author and by linking to original is required to be given somewhere and it has to be clearly visible for the users to see.
@@ -56,7 +58,10 @@ Section 3.Distribution terms:
    c-3.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
  f. you may use this mod as a libary/dependence but the mod has to be downloaded separately and not be in the actually mod download.
- g. Your mod must not have the same name as the original it is wordmarked and trademarked.
+ g. Your mod must not have the same name as the original it is under a  wordmark and is also trademarked.
+ h. If you would like to port the mod to another mod loader like fabric or quilt etc You are required to contact the mod author for the port and you must not redistribute the port and put it on your own download/Curseforge Page you must submit the version to the author and then he will put it up on his page and if you are on the list at:https://api.stopmodreposts.org/sites.txt.
+
+ 
   
 Section 4.Modification Terms:
  a. You may not use all the source code of the mod you may only use 60% of the source code and if you do use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made and the code requires that the author and Mod name are credited and linked it also must be clearly visible where you put the author or Mods name the only exception to this is taking code snippets which do not require any sort of credit.
