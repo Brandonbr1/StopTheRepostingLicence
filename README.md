@@ -31,4 +31,3 @@ As of now this has not been checked by any lawyer to see if this is good for Cor
 
 Authors Note: you can modify the licence text to fit you better
 
-
