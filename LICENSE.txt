@@ -82,9 +82,8 @@ a. You may make an add-on for the mod under the following conditions:
   c. The author has rights to take down any addon he sees from any website.
 
 Section 8.Contributing Terms:
-a. You may contribute to the mod
-b.by submitting a pull request, you give the mod author rights to use the code for the mod.
-c. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from contributing/compiling the mod.
+a. You may contribute to the mod by doing Pull requests, documentation,submitting art to the mod or submitting ideas for the mod and by doing any fo those things list the author of the mod gets full rights to use them in other projects.
+b. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from contributing/compiling the mod.
   
 Section 9. LIABILITY and warranty of the mod:
 
