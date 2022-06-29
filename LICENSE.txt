@@ -29,12 +29,13 @@ This Licence follows the following conditions:
 "Clearly visible" = It is visible to the user and not put in some inconvenient spot where almost no average person will find it like in the main file that people are reading or typical the first things the the user will see.
 "User" = You a person who is veiwing the mod
 "Staff Coder" = someone who works for the mod official and codes for the mod
-"Coder" = someone from the outside coding the mod who do not work for the mod officially
+"Coder" = someone from the outside coding the mod who do not work for the mod officially.
+"Library/dependence" = An external mod that is needed for the mod to work or make things run better in the mod
 
 1.Commercial uses
  a. Attribution is required to be given somewhere; make sure it is visible for the users to see.
  b. There must be a copy of the license somewhere and it must be mentioned clearly for the user to try and see.
- c.do not use the mod's name in your article anywhere if you are at:https://api.stopmodreposts.org/sites.txt
+ c.do not use the mod's name in your article anywhere if you are at:https://api.stopmodreposts.org/sites.txt.
  
 2.Personal Uses
  a.The person/coder may use 100% of the source code that the mod provides but you may not publish the mod for people to download you may use it in something like a YouTube video.
@@ -46,9 +47,8 @@ This Licence follows the following conditions:
    c-3.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
  e. The author can takedown the mods with these modpacks or takedown a mod with no reason provided
- f. you may not use this mod as a libary.
- g.you must not make your mod depend on your mod that you are making.
- h. You must not Make a modpack containing less than 15 mods
+ f. you may use this mod as a libary/dependence but the mod has to be downloaded separately.
+ G. You must not Make a modpack containing less than 15 mods
   
 4.Modification
  a. You may not use all the source code of the mod if you use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made.
@@ -58,12 +58,12 @@ This Licence follows the following conditions:
  e. The "more than 60% of the source code" quota, you must not try and do some loopholes which include:
    f. Renaming the file names and code names in the file, but the other source code is the same that does not count
    
- d.Decompiling
-   e. You are not allowed to decompile the source code unless you get permission from the author.
-   f. You may examine the source code but never publish it to the public.
+ g.Decompiling
+   h. You may Decompile the mod but you must not publish the source code.
+   i. The user may examine the source code but never publish it to the public or use it in her mod unless d is followed.
  
 5.Assets
- a. All assets Provided are Under All Rights Reserved.
+ a. All assets of the mod for everyone are  Provided are Under copyright. All Rights Reserved to the author.
  
  
 6. banned users
