@@ -78,14 +78,13 @@ Section 6. Banned users
   
 Section 7.addons Terms:
 a. You may make an add-on for the mod under the following conditions:
-  b. You may use the add-on as inspiration from the mod but it must not be too close to the original mod.
-  c. The author has rights to take down any addon he sees from any website.
+  b. You may use the add-on as inspiration from the mod but it must not be too close to the original mod and if the author think s it is too close to the original mod then he has rights to take it down from any websites.
 
 Section 8.Contributing Terms:
 a. You may contribute to the mod by doing Pull requests, documentation,submitting art to the mod or submitting ideas for the mod and by doing any fo those things list the author of the mod gets full rights to use them in other projects.
 b. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from contributing/compiling the mod.
   
-Section 9. LIABILITY and warranty of the mod:
+Section 9. "AS IS" LIABILITY and WARRANTIES of the mod:
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
 REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
