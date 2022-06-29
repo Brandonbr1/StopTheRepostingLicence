@@ -56,8 +56,10 @@ Section 3.Distribution terms:
    c-3.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
  f. you may use this mod as a libary/dependence but the mod has to be downloaded separately and not be in the actually mod download.
- g. Your mod must not have the same name as the original it is wordmarked and trademarked.
- I. If you would like to port the mod to another mod loader like fabric or quilt etc Your are required to contact the mod author for the port and you must not redistribute the port and put it on your own download/Curseforge Page you must submit the version to the author and then he will put it up And the same is True for ports to newer versions.
+ g. Your mod must not have the same name as the original it is under a  wordmark and is also trademarked.
+ h. If you would like to port the mod to another mod loader like fabric or quilt etc You are required to contact the mod author for the port and you must not redistribute the port and put it on your own download/Curseforge Page you must submit the version to the author and then he will put it up And the same is True for ports to newer versions and if you are on the list at:https://api.stopmodreposts.org/sites.txt .
+
+ 
   
 Section 4.Modification Terms:
  a. You may not use all the source code of the mod you may only use 60% of the source code and if you do use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made and the code requires that the author and Mod name are credited and linked it also must be clearly visible where you put the author or Mods name the only exception to this is taking code snippets which do not require any sort of credit.
