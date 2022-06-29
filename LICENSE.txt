@@ -3,7 +3,7 @@ Version 1.0.0
 
 Copyright (c) 2022 Copyright Holder
 
-This Licence follows the following conditions:
+This StopTheRepostingLicence Licence follows the following terms and conditions:
 
 
 0.5 Definitions:
@@ -31,6 +31,7 @@ This Licence follows the following conditions:
 "Staff Coder" = someone who works for the mod official and codes for the mod.
 "Coder" = someone from the outside coding the mod who do not work for the mod officially.
 "Library/dependence" = An external mod that is needed for the mod to work or make things run better in the mod.
+"Add-on" = something that uses the base mod and adds on top of it by creating another mod that intrageates with the mod
 
 Section 1.Commercial uses terms:
  a. When posting a YouTube video or sites like YouTube you must give Attribution to the author and by linking to original is required to be given somewhere and it has to be clearly visible for the users to see.
