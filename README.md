@@ -18,9 +18,8 @@ etc.<br>
 
 This is a wip rn currently I am trying to make it less of a crayon license and make things more Fair 
 
-# Contributing
-
-If you would like to contribute go to the dev branch no the main one as that one will be more stable and with less Wip ideas that could be bad for Cort.
+# Contributing 
+If you would like to contribute go to the dev branch no the main one as that one will be more stable and with less Wip ideas that could be bad for Cort
 
 It is recommended to use the .txt version instead of the .MD version because that is updated less often.
 all of the Licence text is under:<br>
