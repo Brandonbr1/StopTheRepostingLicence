@@ -6,38 +6,67 @@ Copyright (c) 2022 <Copyright Holder's Name>
 
 This StopTheRepostingLicence Licence follows the following terms and conditions:
 
+----------------
 0.5 Definitions:
+----------------
 
-Definitions are here so you don't use other ones or one that doesn't exist in the Wikipedia/Dictionary
+Definitions are here so you don't use other ones which are  or one that doesn't exist in the Wikipedia/Dictionary
+-----------------------------------------------------------------------------------------------------------------
 
-// = This is not applied 
 "Website" = A bunch of websites pages typically built with code or a website builder to display content; it often or not has a domain name sometimes a subdomain name, that is registered to a domain name service. Original text from: https://www.google.com/search?q=website+definition&oq=website+defini&aqs reworded by me
+
 "Source code" = The code of the computer program make with computer instructions and as it's most bare bone form it has only 1 and 0.
+
 "Mod" = Modifing the game to add new content by modifing the game in a way so it adds things into the game some  in the game to the game typically done with forge or fabric can be indepedently or by a team. Original text from: https://en.m.wikipedia.org/wiki/Minecraft_modding reworded by me
+
 "Decompile" = using a decompiler tool to get the source code .jar file which you can not get with any normal means.
+
 "Modpack" = A list of mods consisting of more that one mod used so you can download all of the mods easily and quickly.
+
 "Assets" = The art,sound and models of the Mod.
+
 "Minecraft" = A 3D sandbox game consisting of cubes to build things out of and items that do many functions, crafting to get set items and block and Combat to fight mobs or other players in the game via multiplayer.
+
 "Compiling" = using the source code and then making the file into .jar where it can be read by anyone with the JRE.
+
 "Binary" = the .jar file that comes out when the mod is released.
+
 "Author" = The person who made all/almost all of the mod and they have full rights towards the mod.
+
 "Publish" = make the mod available to the public to see .
+
 "Examine" = looking at the source code but never releasing it.
+
 "Banned" =  not allowed to doing something.
+
 "Contributing" = helping the mod by writing code for the mod but he is not an author.
+
 "ads services" = what is shown to the user for other companies to show their products.
+
 "paid url shortener" = means A url shortener that when the put into the url shortener, shortens the link and also gives the person using it money.
-"Copyright" = A law that gives the owner rights to the mod 
+
+"Copyright" = A law that gives the owner rights to the mod.
+
 "LIABILITY" = What the author of the mod can be held accountable for.
+
 "Attribution" = giving credit to the author.
+
 "Clearly visible" = It is visible to the user and not put in some inconvenient spot where almost no average person will find it like in the main file that people are reading or typical the first things the the user will see.
+
 "User" = You a person who is veiwing the mod.
+
 "Staff Coder" = someone who works for the mod official and codes for the mod.
+
 "Coder" = someone from the outside coding the mod who do not work for the mod officially.
+
 "Library/dependence" = An external mod that is needed for the mod to work or make things run better in the mod.
+
 "Add-on" = something that uses the base mod and adds on top of it by creating another mod that intrageates with the mod.
+
 "mods name" = The name of the Minecraft mod.
+
 "Snippet" = A small section of code.
+
 "Modding API" = A Minecraft API that helps make Minecraft modding easy and is uses in almost any mod like forge,fabric,quilt etc.
 
 -------------------------------
@@ -47,6 +76,7 @@ Section 1 COMMERCIAL USES TERMS:
  a. When posting a YouTube video or sites like YouTube you must give Attribution to the author and by linking to original is required to be given somewhere and it has to be clearly visible for the users to see.
  
  b. You must not use the mod for any commerical purposes.
+ 
  
  c. There must be a copy of This license text somewhere and it must be clearly visible for the user see.
  
@@ -62,7 +92,7 @@ Section 2 PERSONAL USES TERMS:
  b. You may showcase the mod on your YouTube channel following all the rules of Section 1 a. 
  
 -----------------------------
-Section3 DISTRIBUTION TERMS:
+Section 3 DISTRIBUTION TERMS:
 -----------------------------
  a. the original mod must not be on any other website besides it's official pages unless Section 4 is followed.
  
@@ -87,7 +117,7 @@ Section3 DISTRIBUTION TERMS:
  H. The Mod follows the law of the country in which they are born in.
 
 ----------------------------  
-Section 4.Modification Terms:
+Section 4 MODIFICATION TERMS:
 ----------------------------
 
  a. You may not use all the source code of the mod you may only use 60% of the source code and if you do use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made and the code requires that the author and Mod name are credited and linked it also must be clearly visible where you put the author or Mods name the only exception to this is taking code snippets which do not require any sort of credit.
@@ -101,7 +131,7 @@ Section 4.Modification Terms:
    e. Renaming the file names and code names in the file, but the other source code is the same that does not count
    
  -----------------------
- f.4.5 Decompiling Terms:
+ f.4.5 DECOMPILING TERMS:
  -----------------------
  
    u. You may Decompile the mod but you must not publish the source code.
@@ -115,7 +145,7 @@ Section 5 ASSETS Terms:
  a. All assets of the mod are Provided Under Attribution-NonCommercial-ShareAlike 4.0 International:https://creativecommons.org/licenses/by-nc-sa/4.0/.
  
  ----------------------
-Sction 6. BANNED USERS
+Sction 6 BANNED USERS
 ----------------------
 
    a. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from my community and doing anything .
@@ -123,14 +153,14 @@ Sction 6. BANNED USERS
    b2.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text.
   
 ------------------------
-Section 7.ADDONS TERMS:
+Section 7 ADDONS TERMS:
 -----------------------
 
 a. You may make an add-on for the mod under the following conditions:
 
   b. You may use the add-on as inspiration from the mod but it must not be too close to the original mod and if the author think s it is too close to the original mod then he has rights to take it down from any websites.
 -----------------------------
-Section 8.CONTRIBUTING TERMS:
+Section 8 CONTRIBUTING TERMS:
 -----------------------------
 
 a. You may contribute to the mod by doing Pull requests, documentation,submitting art to the mod or submitting ideas for the mod and by doing any fo those things list the author of the mod gets full rights to use them in other projects.
