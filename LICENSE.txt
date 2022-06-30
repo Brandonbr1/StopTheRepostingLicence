@@ -13,7 +13,7 @@ Definitions are here so you don't use other ones or one that doesn't exist in th
 // = This is not applied 
 "Website" = A bunch of websites pages typically built with code or a website builder to display content; it often or not has a domain name sometimes a subdomain name, that is registered to a domain name service. Original text from: https://www.google.com/search?q=website+definition&oq=website+defini&aqs reworded by me
 "Source code" = The code of the computer program make with computer instructions and as it's most bare bone form it has only 1 and 0.
-"Mod" = Modifing the game to add new content by modifing the game in a way so it adds things into the game some  in the game to the game typically done with forge or fabric can be indepedently or by a team. Original text from:https://www.google.com/url?sa=t&source=web&rct=j&url=https://en.m.wikipedia.org/wiki/Minecraft_modding&ved=2ahUKEwi_39iDvdP4AhWOK0QIHbpzD3IQmhN6BAgWEAI&usg=AOvVaw1fRDgSABCRYDKclVe8ANCu reworded by me
+"Mod" = Modifing the game to add new content by modifing the game in a way so it adds things into the game some  in the game to the game typically done with forge or fabric can be indepedently or by a team. Original text from: https://en.m.wikipedia.org/wiki/Minecraft_modding reworded by me
 "Decompile" = using a decompiler tool to get the source code .jar file which you can not get with any normal means.
 "Modpack" = A list of mods consisting of more that one mod used so you can download all of the mods easily and quickly.
 "Assets" = The art,sound and models of the Mod.
@@ -45,11 +45,11 @@ Section 1.Commercial uses terms:
  b. You must not use the mod for any commerical purposes.
  c. There must be a copy of This license text somewhere and it must be clearly visible for the user see.
  d. do not use the mod's name in your article anywhere if you are at:https://api.stopmodreposts.org/sites.txt.
- e. You must not make any sort of content farms or ad farms when publishing a blog about it you may have 2 ads on the page before it is considered an ad farm.
+ e. You must not make any sort of content farms or ad farms when publishing a blog about it you may have 3 ads on the page before it is considered an ad farm.
  
 Section 2.Personal Uses terms:
  a.The person/coder may use 100% of the source code that the mod provides but you may not publish the mod for people to download you may use it in something like a YouTube video.
- b. You may showcase the mod on your YouTube channel following all the rules of Section 1. 
+ b. You may showcase the mod on your YouTube channel following all the rules of Section 1 a. 
  
 Section 3.Distribution terms:
  a. the original mod must not be on any other website besides it's official pages unless Section 4 is followed.
@@ -59,9 +59,9 @@ Section 3.Distribution terms:
  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
  f. you may use this mod as a libary/dependence but the mod has to be downloaded separately and not be in the actually mod download.
  g. Your mod must not have the same name as the original it is under a  wordmark and is also trademarked.
- h. If you would like to port the mod to another mod loader like fabric or quilt etc You are required to contact the mod author for the port and you must not redistribute the port and put it on your own download/Curseforge Page you must submit the version to the author and then he will put it up on his page and if you are on the list at:https://api.stopmodreposts.org/sites.txt.
+ h. If you would like to port the mod to another mod loader like fabric or quilt etc You are required to contact the mod author for the port and you must not redistribute the port and put it on your own download/Curseforge Page you must submit the version to the author and then he will put it up on his page and if you are on the list at:https://api.stopmodreposts.org/sites.txt you do not contact the author he will no give you perms to port.
+ I.
 
- 
   
 Section 4.Modification Terms:
  a. You may not use all the source code of the mod you may only use 60% of the source code and if you do use more than 60% of the source code for the mod then contact with the author must be made and you have to state what changes you made and the code requires that the author and Mod name are credited and linked it also must be clearly visible where you put the author or Mods name the only exception to this is taking code snippets which do not require any sort of credit.
@@ -78,10 +78,10 @@ Section 5.Permission for Assets Terms:
  a. All assets of the mod are Provided Under copyright.All Rights Reserved to the author and is under copyright law if you want to use the assets you must ask.
  
  
-Section 6. Banned users
+Sction 6. Banned users
    a. if you are on the list at https://api.stopmodreposts.org/sites.txt you are simply banned from my community and doing anything 
    b2.5 credits:This list was provided by StopModReposts https://github.com/StopModReposts/Illegal-Mod-Sites/wiki/API-access-and-formats#plain-text
-   
+  
   
 Section 7.Addons Terms:
 a. You may make an add-on for the mod under the following conditions:
