@@ -5,7 +5,6 @@ Copyright (c) 2022 <Copyright Holder's Name>
 
 This StopTheRepostingLicence Licence follows the following terms and conditions:
 
-
 0.5 Definitions:
 
 Definitions are here so you don't use other ones or one that doesn't exist in the Wikipedia/Dictionary
@@ -59,8 +58,9 @@ Section 3.Distribution terms:
  d. The person does not make any money that means no paid url shortener in any form, you may use ads services if you use the source code.
  f. you may use this mod as a libary/dependence but the mod has to be downloaded separately and not be in the actually mod download.
  g. Your mod must not have the same name as the original it is under a  wordmark and is also trademarked.
- h. If you would like to port the mod to another mod loader like fabric or quilt etc You are required to contact the mod author for the port and you must not redistribute the port and put it on your own download/Curseforge Page you must submit the version to the author and then he will put it up on his page and if you are on the list at:https://api.stopmodreposts.org/sites.txt you do not contact the author he will no give you perms to port.
- I.
+ h. You may port the mod to another mod loader but if you are on the list at:https://api.stopmodreposts.org/sites.txt then perms a banned from porting to a new modloader and the author can takedown the mod to the ported version whith no reason provided.
+ I.You may port the mod to a newer version of the mod loader but if you are on the list at:https://api.stopmodreposts.org/sites.txt then perms a banned from porting and the author can takedown the mod to the newer version whith no reason provided.
+ H. The Mod follows the law of the country in which they are born in.
 
   
 Section 4.Modification Terms:
