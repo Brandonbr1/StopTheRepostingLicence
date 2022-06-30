@@ -75,7 +75,7 @@ Section 4.Modification Terms:
    h. The user may examine the source code but never publish it to the public or use it in her mod unless d is followed.
  
 Section 5.Permission for Assets Terms:
- a. All assets of the mod are Provided Under copyright.All Rights Reserved to the author and is under copyright law if you want to use the assets you must ask.
+ a. All assets of the mod are Provided Under Attribution-NonCommercial-ShareAlike 4.0 International:https://creativecommons.org/licenses/by-nc-sa/4.0/.
  
  
 Sction 6. Banned users
