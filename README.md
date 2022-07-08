@@ -23,8 +23,27 @@ Anyone is free to contribute to the License.
 If you would like to contribute go to the dev branch no the main one as that one will be more stable and with less Wip ideas that could be bad for Cort
 
 It is recommended to use the .txt version instead of the .MD version because that is updated less often.
-all of the Licence text is under:<br>
-[unlicense](https://unlicense.org/)
+all of the Licence text is under the following terms and conditions:<br>
+
+Do anything License
+
+(C) copyright 2022 
+
+You can redistribute,copy,use it for Commercial uses, let it be Modified
+Under the following conditions:
+
+1.you may redistribute,copy,use it for Commercial uses, let it be Modified under no conditions some that means that you do not need to disclose source,you do not need to make a copy of the license  or put up a copyright notice,you do not need to use the same license or state any changes made and lastly network distrubution is allowed. 
+
+
+LIABILITY and Warranties for this software
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 As of now this has not been checked by any lawyer to see if this is good for Cort but brandonbr1 will try to get one.
