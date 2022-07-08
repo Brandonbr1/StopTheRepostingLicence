@@ -49,7 +49,7 @@ Definitions are here so you don't use other ones which are  or one that doesn't 
 
 "LIABILITY" = What the author of the mod can be held accountable for.
 
-"Attribution" = giving credit to the author.
+"Attribution" = giving credit to the author, the mods name and providing a link to the mod.
 
 "Clearly visible" = It is visible to the user and not put in some inconvenient spot where almost no average person will find it like in the main file that people are reading or typical the first things the the user will see.
 
@@ -69,6 +69,9 @@ Definitions are here so you don't use other ones which are  or one that doesn't 
 
 "Modding API" = A Minecraft API that helps make Minecraft modding easy and is uses in almost any mod like forge,fabric,quilt etc.
 
+"Content farms" = A company or person who posts lots of mods in a ridiculous amount time and has stolen content of mods which are illegal and it also favors the alrgothims for search engines like Google so that I gets very high on the list when you search for the mod on search engines.
+
+"Ad farms" = putting a lot of ads on the website to make lots of money to the point where a lot of the content on the website are ads
 -------------------------------
 Section 1 COMMERCIAL USES TERMS:
 -------------------------------
